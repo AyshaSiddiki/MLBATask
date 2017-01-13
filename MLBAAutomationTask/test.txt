@@ -1,0 +1,551 @@
+
+2016-10-27 14:33:28,213 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:33:35,024 INFO  [Utils] Elements initialized 
+2016-10-27 14:33:35,040 INFO  [Utils] [[FirefoxDriver: firefox on MAC (7ff8a18b-30a6-a744-91c0-487aaaa2bff0)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:33:35,101 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:33:35,129 INFO  [Utils] [[FirefoxDriver: firefox on MAC (7ff8a18b-30a6-a744-91c0-487aaaa2bff0)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:33:35,238 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:33:37,242 INFO  [Utils] Elements initialized 
+2016-10-27 14:33:37,374 INFO  [Utils] [[FirefoxDriver: firefox on MAC (7ff8a18b-30a6-a744-91c0-487aaaa2bff0)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:33:37,428 INFO  [Utils] Elements initialized 
+2016-10-27 14:33:37,659 INFO  [Utils] Took screen shot 
+2016-10-27 14:35:46,714 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:35:53,786 INFO  [Utils] Elements initialized 
+2016-10-27 14:35:53,799 INFO  [Utils] [[FirefoxDriver: firefox on MAC (d6537b12-6b15-b347-88a1-c33deb08d8c6)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:35:53,869 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:35:53,882 INFO  [Utils] [[FirefoxDriver: firefox on MAC (d6537b12-6b15-b347-88a1-c33deb08d8c6)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:35:53,971 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:35:58,974 INFO  [Utils] Elements initialized 
+2016-10-27 14:35:58,985 INFO  [Utils] [[FirefoxDriver: firefox on MAC (d6537b12-6b15-b347-88a1-c33deb08d8c6)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:35:59,010 INFO  [Utils] Elements initialized 
+2016-10-27 14:35:59,238 INFO  [Utils] Took screen shot 
+2016-10-27 14:37:52,650 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:37:59,338 INFO  [Utils] Elements initialized 
+2016-10-27 14:37:59,349 INFO  [Utils] [[FirefoxDriver: firefox on MAC (ce06c29f-2715-914a-ad03-34db3086daef)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:37:59,425 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:37:59,447 INFO  [Utils] [[FirefoxDriver: firefox on MAC (ce06c29f-2715-914a-ad03-34db3086daef)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:37:59,544 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:38:04,548 INFO  [Utils] Elements initialized 
+2016-10-27 14:38:04,562 INFO  [Utils] [[FirefoxDriver: firefox on MAC (ce06c29f-2715-914a-ad03-34db3086daef)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:38:04,587 INFO  [Utils] Elements initialized 
+2016-10-27 14:38:04,806 INFO  [Utils] Took screen shot 
+2016-10-27 14:40:46,512 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:40:53,316 INFO  [Utils] Elements initialized 
+2016-10-27 14:40:53,335 INFO  [Utils] [[FirefoxDriver: firefox on MAC (98c2b587-5444-2442-b028-3acc96eddf6f)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:40:53,414 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:40:53,447 INFO  [Utils] [[FirefoxDriver: firefox on MAC (98c2b587-5444-2442-b028-3acc96eddf6f)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:40:53,550 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:40:58,554 INFO  [Utils] Elements initialized 
+2016-10-27 14:40:58,601 INFO  [Utils] [[FirefoxDriver: firefox on MAC (98c2b587-5444-2442-b028-3acc96eddf6f)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:40:58,706 INFO  [Utils] Elements initialized 
+2016-10-27 14:40:58,895 INFO  [Utils] Took screen shot 
+2016-10-27 14:41:45,973 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:41:52,526 INFO  [Utils] Elements initialized 
+2016-10-27 14:41:52,540 INFO  [Utils] [[FirefoxDriver: firefox on MAC (51d1a72b-2293-2440-be29-c4930d9ad3f0)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:41:52,605 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:41:52,639 INFO  [Utils] [[FirefoxDriver: firefox on MAC (51d1a72b-2293-2440-be29-c4930d9ad3f0)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:41:52,723 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:41:57,727 INFO  [Utils] Elements initialized 
+2016-10-27 14:41:57,738 INFO  [Utils] [[FirefoxDriver: firefox on MAC (51d1a72b-2293-2440-be29-c4930d9ad3f0)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:41:57,770 INFO  [PLPEbay] The price of this product 85.99 
+2016-10-27 14:42:14,834 INFO  [Utils] Elements initialized 
+2016-10-27 14:44:22,346 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:44:31,285 INFO  [Utils] Elements initialized 
+2016-10-27 14:44:31,306 INFO  [Utils] [[FirefoxDriver: firefox on MAC (5e571f05-7a6f-894e-8568-69796fabc0bf)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:44:31,378 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:44:31,390 INFO  [Utils] [[FirefoxDriver: firefox on MAC (5e571f05-7a6f-894e-8568-69796fabc0bf)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:44:31,450 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:44:36,452 INFO  [Utils] Elements initialized 
+2016-10-27 14:44:36,469 INFO  [Utils] [[FirefoxDriver: firefox on MAC (5e571f05-7a6f-894e-8568-69796fabc0bf)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:44:36,492 INFO  [PLPEbay] 85.99 
+2016-10-27 14:44:36,493 INFO  [PLPEbay] The price of this product 85.99 
+2016-10-27 14:44:53,561 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:45:02,136 INFO  [Utils] Elements initialized 
+2016-10-27 14:45:02,149 INFO  [Utils] [[FirefoxDriver: firefox on MAC (179eb6a8-97b2-204f-9c87-939ac30d26df)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:45:02,229 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:45:02,256 INFO  [Utils] [[FirefoxDriver: firefox on MAC (179eb6a8-97b2-204f-9c87-939ac30d26df)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:45:02,372 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:45:07,378 INFO  [Utils] Elements initialized 
+2016-10-27 14:45:07,395 INFO  [Utils] [[FirefoxDriver: firefox on MAC (179eb6a8-97b2-204f-9c87-939ac30d26df)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:45:07,417 INFO  [PLPEbay] 85.99 
+2016-10-27 14:45:07,417 INFO  [PLPEbay] The price of this product 85.99 
+2016-10-27 14:52:04,971 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:52:11,569 INFO  [Utils] Elements initialized 
+2016-10-27 14:52:11,579 INFO  [Utils] [[FirefoxDriver: firefox on MAC (67a0499b-f320-6c4e-9710-7224c7b644e2)] -> xpath: .//*[@id='gh-ac']] is initialized 
+2016-10-27 14:52:11,656 INFO  [LandingPageEbay] Entered electric guitar on the Search box 
+2016-10-27 14:52:11,678 INFO  [Utils] [[FirefoxDriver: firefox on MAC (67a0499b-f320-6c4e-9710-7224c7b644e2)] -> xpath: .//*[@id='gh-btn']] is initialized 
+2016-10-27 14:52:11,744 INFO  [LandingPageEbay] Clicked on the search button 
+2016-10-27 14:52:16,748 INFO  [Utils] Elements initialized 
+2016-10-27 14:52:16,768 INFO  [Utils] [[FirefoxDriver: firefox on MAC (67a0499b-f320-6c4e-9710-7224c7b644e2)] -> xpath: .//*[@id='item3f6aaa1276']/ul[1]/li[1]/span] is initialized 
+2016-10-27 14:52:16,804 INFO  [PLPEbay] 85.99 
+2016-10-27 14:52:16,804 INFO  [PLPEbay] The price of this product is $85.99 
+2016-10-27 14:52:55,566 INFO  [BaseTest] Browser initializing 
+2016-10-27 14:53:36,308 INFO  [BaseTest] Browser initializing 
+2017-01-12 22:32:47,885 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:18:24,929 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:18:53,979 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:18:54,176 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (24a5e2b1-63f0-1b47-af73-7d63bd493e35)] -> xpath: //div[@id='identifier-shown']] is initialized 
+2017-01-12 23:18:54,414 INFO  [HomePage] Entered the userid 
+2017-01-12 23:18:54,452 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (24a5e2b1-63f0-1b47-af73-7d63bd493e35)] -> xpath: //input[@id='next']] is initialized 
+2017-01-12 23:18:54,713 INFO  [HomePage] Clicked on the next button 
+2017-01-12 23:18:57,727 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (24a5e2b1-63f0-1b47-af73-7d63bd493e35)] -> xpath: //input[@id='signIn']] is initialized 
+2017-01-12 23:19:47,931 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:19:48,575 INFO  [MLBAUtils] Took the screen shot 
+2017-01-12 23:26:59,177 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:27:12,325 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:27:12,405 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (023f475d-8837-c94b-ae57-3710a056708d)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-12 23:27:12,620 INFO  [HomePage] Entered the userid 
+2017-01-12 23:27:12,642 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (023f475d-8837-c94b-ae57-3710a056708d)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-12 23:27:12,952 INFO  [HomePage] Clicked on the next button 
+2017-01-12 23:27:15,972 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (023f475d-8837-c94b-ae57-3710a056708d)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-12 23:27:16,055 INFO  [HomePage] Entered password 
+2017-01-12 23:27:16,068 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (023f475d-8837-c94b-ae57-3710a056708d)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-12 23:27:17,796 INFO  [HomePage] Clicked on the signin button 
+2017-01-12 23:27:19,811 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:27:19,812 INFO  [GmailProfilePage] Elements initialized 
+2017-01-12 23:28:25,079 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:28:36,779 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:28:36,868 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2616e3b8-7838-684d-b845-50f5f9020dc2)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-12 23:28:37,029 INFO  [HomePage] Entered the userid 
+2017-01-12 23:28:37,048 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2616e3b8-7838-684d-b845-50f5f9020dc2)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-12 23:28:37,164 INFO  [HomePage] Clicked on the next button 
+2017-01-12 23:28:40,184 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2616e3b8-7838-684d-b845-50f5f9020dc2)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-12 23:28:40,270 INFO  [HomePage] Entered password 
+2017-01-12 23:28:40,283 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2616e3b8-7838-684d-b845-50f5f9020dc2)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-12 23:28:42,152 INFO  [HomePage] Clicked on the signin button 
+2017-01-12 23:28:44,160 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:28:44,161 INFO  [GmailProfilePage] Elements initialized 
+2017-01-12 23:28:45,143 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:28:59,183 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:29:06,591 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:29:14,327 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:29:14,421 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a7118ec1-816a-f64f-95c9-ef034e54751f)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-12 23:29:14,607 INFO  [HomePage] Entered the userid 
+2017-01-12 23:29:14,626 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a7118ec1-816a-f64f-95c9-ef034e54751f)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-12 23:29:14,798 INFO  [HomePage] Clicked on the next button 
+2017-01-12 23:29:17,811 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a7118ec1-816a-f64f-95c9-ef034e54751f)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-12 23:29:17,883 INFO  [HomePage] Entered password 
+2017-01-12 23:29:17,894 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a7118ec1-816a-f64f-95c9-ef034e54751f)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-12 23:29:18,967 INFO  [HomePage] Clicked on the signin button 
+2017-01-12 23:29:20,995 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:29:20,996 INFO  [GmailProfilePage] Elements initialized 
+2017-01-12 23:29:56,108 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@48793bef is initialized 
+2017-01-12 23:30:32,162 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:30:46,209 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:30:46,662 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:30:47,026 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c959e29b-7147-8d4a-a18c-d0d4aa8a2eee)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-12 23:30:47,244 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c959e29b-7147-8d4a-a18c-d0d4aa8a2eee)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-12 23:30:49,462 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c959e29b-7147-8d4a-a18c-d0d4aa8a2eee)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-12 23:30:49,543 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c959e29b-7147-8d4a-a18c-d0d4aa8a2eee)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-12 23:30:53,066 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:30:53,067 INFO  [GmailProfilePage] Elements initialized 
+2017-01-12 23:31:28,294 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@48793bef is initialized 
+2017-01-12 23:32:18,612 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:32:19,032 INFO  [MLBAUtils] Took the screen shot 
+2017-01-12 23:35:32,988 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:35:43,961 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:35:44,077 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (8171e9c0-b036-d347-838a-0e84f6de9f90)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-12 23:35:44,438 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (8171e9c0-b036-d347-838a-0e84f6de9f90)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-12 23:35:46,565 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (8171e9c0-b036-d347-838a-0e84f6de9f90)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-12 23:35:46,728 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (8171e9c0-b036-d347-838a-0e84f6de9f90)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-12 23:35:50,248 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:35:50,249 INFO  [GmailProfilePage] Elements initialized 
+2017-01-12 23:36:25,349 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7b8b43c7 is initialized 
+2017-01-12 23:36:50,192 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:37:01,121 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:37:01,217 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2183f620-099d-9648-8e37-894cc31a974f)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-12 23:37:01,386 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2183f620-099d-9648-8e37-894cc31a974f)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-12 23:37:15,623 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:37:30,960 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:37:48,428 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:37:55,490 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:38:22,323 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:39:39,291 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:39:52,928 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:39:53,261 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (803add8a-3f2a-c145-9632-00dede2dd862)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:39:53,884 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:39:53,922 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (803add8a-3f2a-c145-9632-00dede2dd862)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:39:54,102 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:39:57,116 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:39:57,378 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (803add8a-3f2a-c145-9632-00dede2dd862)] -> xpath: //li[@id='item5430ad03cd']/ul[@class='lvprices left space-zero']/li[@class='lvprice prc']/span] is initialized 
+2017-01-12 23:39:57,971 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:39:57,971 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-12 23:41:24,707 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:41:35,481 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:41:35,893 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (10b7d8ac-90d2-dd44-9820-1bfff39f2bba)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:41:36,185 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:41:36,340 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (10b7d8ac-90d2-dd44-9820-1bfff39f2bba)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:41:36,905 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:41:39,965 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:41:41,818 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (10b7d8ac-90d2-dd44-9820-1bfff39f2bba)] -> xpath: //li[@id='item5430ad03cd']/ul[@class='lvprices left space-zero']/li[@class='lvprice prc']/span] is initialized 
+2017-01-12 23:41:42,494 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:41:42,495 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-12 23:42:52,027 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:43:01,728 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:43:01,835 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (b1da0c69-13dd-5d4a-bf5f-2c5240a1d28b)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:43:02,155 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:43:02,355 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (b1da0c69-13dd-5d4a-bf5f-2c5240a1d28b)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:43:02,616 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:43:05,619 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:43:06,343 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (b1da0c69-13dd-5d4a-bf5f-2c5240a1d28b)] -> xpath: //li[@id='item5430ad03cd']/ul[@class='lvprices left space-zero']/li[@class='lvprice prc']/span] is initialized 
+2017-01-12 23:43:06,930 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:43:06,930 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-12 23:45:41,791 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:45:56,326 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:45:56,589 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (4dfa43eb-ff29-4745-bae7-fa856a3ea5b5)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:45:56,944 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:45:56,993 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (4dfa43eb-ff29-4745-bae7-fa856a3ea5b5)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:45:57,264 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:46:00,279 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:46:00,545 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (4dfa43eb-ff29-4745-bae7-fa856a3ea5b5)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-12 23:46:01,210 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:46:01,211 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-12 23:47:29,785 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:48:47,733 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:49:07,704 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:49:08,419 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (dc71a6fb-0cb6-494a-905c-1db3a887bc99)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:49:08,938 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:49:09,774 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (dc71a6fb-0cb6-494a-905c-1db3a887bc99)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:49:10,550 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:49:13,596 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:49:14,086 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (dc71a6fb-0cb6-494a-905c-1db3a887bc99)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-12 23:49:14,991 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:49:14,991 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-12 23:52:03,888 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:52:15,659 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:52:15,802 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d7f3ff93-255e-cd46-84c7-52acc509f93d)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:52:16,090 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:52:16,137 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d7f3ff93-255e-cd46-84c7-52acc509f93d)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:52:16,415 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:52:19,427 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:52:19,746 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d7f3ff93-255e-cd46-84c7-52acc509f93d)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-12 23:52:19,843 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:52:19,844 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-12 23:53:18,536 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:53:29,155 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:53:29,302 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5de1457-5350-564d-a956-8ad0b73356e7)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:53:29,555 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:53:29,585 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5de1457-5350-564d-a956-8ad0b73356e7)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:53:29,817 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:53:32,848 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:53:33,260 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5de1457-5350-564d-a956-8ad0b73356e7)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-12 23:53:34,268 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:54:07,560 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:54:17,591 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:54:17,722 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e1c981e1-9cb4-274a-b1a5-db225348a661)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:54:18,051 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:54:18,200 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e1c981e1-9cb4-274a-b1a5-db225348a661)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:54:18,779 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:54:21,806 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:54:22,489 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e1c981e1-9cb4-274a-b1a5-db225348a661)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-12 23:54:23,098 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:56:18,011 INFO  [BaseTest] Browser initializing 
+2017-01-12 23:56:30,162 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:56:30,392 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (92e2b4ca-2064-364c-aa7d-357822375055)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-12 23:56:30,659 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-12 23:56:30,718 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (92e2b4ca-2064-364c-aa7d-357822375055)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-12 23:56:31,252 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-12 23:56:34,288 INFO  [MLBAUtils] Elements initialized 
+2017-01-12 23:56:35,695 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (92e2b4ca-2064-364c-aa7d-357822375055)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-12 23:56:36,741 INFO  [EbayProductPage] 79.99 
+2017-01-12 23:56:36,873 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 00:57:08,515 INFO  [BaseTest] Browser initializing 
+2017-01-13 00:57:21,856 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 00:57:22,093 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c6043502-289b-ca44-b6ba-5bc3e1fb0fe7)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 00:57:22,396 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 00:57:22,448 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c6043502-289b-ca44-b6ba-5bc3e1fb0fe7)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 00:57:22,937 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 00:57:25,951 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 00:57:26,297 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (c6043502-289b-ca44-b6ba-5bc3e1fb0fe7)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 00:57:26,944 INFO  [EbayProductPage] 79.99 
+2017-01-13 00:57:26,944 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 01:01:07,593 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:01:19,488 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:01:19,623 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (83b7b5e2-04a5-9641-8662-b29489ebf821)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 01:01:19,973 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 01:01:20,139 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (83b7b5e2-04a5-9641-8662-b29489ebf821)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 01:01:20,416 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 01:01:23,429 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:01:23,667 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (83b7b5e2-04a5-9641-8662-b29489ebf821)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 01:01:24,194 INFO  [EbayProductPage] 79.99 
+2017-01-13 01:01:24,195 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 01:01:24,705 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:01:32,104 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:02:02,173 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7d9e8ef7 is initialized 
+2017-01-13 01:02:52,374 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:08:12,459 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:08:43,637 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:08:43,799 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (6af17a33-d28f-a545-9d5e-c07a65069ec1)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 01:08:43,972 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 01:08:44,040 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (6af17a33-d28f-a545-9d5e-c07a65069ec1)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 01:08:44,323 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 01:08:47,451 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:09:36,641 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:09:37,808 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:12:41,117 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:13:05,754 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:13:05,963 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (f57bb941-c24b-4e48-b0ca-96d5c5960f4c)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 01:13:06,339 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 01:13:06,389 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (f57bb941-c24b-4e48-b0ca-96d5c5960f4c)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 01:13:06,649 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 01:13:09,664 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:13:10,114 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (f57bb941-c24b-4e48-b0ca-96d5c5960f4c)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 01:13:10,430 INFO  [EbayProductPage] 79.99 
+2017-01-13 01:13:10,430 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 01:13:10,729 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:13:20,472 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:13:50,602 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@3561c410 is initialized 
+2017-01-13 01:14:25,586 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:14:37,508 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:14:41,770 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:14:51,146 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 01:14:51,598 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:14:58,253 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:14:58,308 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (25c63aef-b431-d543-b4c6-74ae93b4ad09)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 01:14:58,517 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (25c63aef-b431-d543-b4c6-74ae93b4ad09)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 01:15:07,606 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7fbdb894 is initialized 
+2017-01-13 01:15:30,848 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@432038ec is initialized 
+2017-01-13 01:15:57,770 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:15:58,143 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 01:15:58,535 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:16:03,133 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:16:14,781 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:16:14,955 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d8426c22-ee75-7145-b879-e3b95f652d35)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 01:16:15,241 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d8426c22-ee75-7145-b879-e3b95f652d35)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 01:16:17,620 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d8426c22-ee75-7145-b879-e3b95f652d35)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 01:16:17,897 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (d8426c22-ee75-7145-b879-e3b95f652d35)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 01:16:20,977 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:16:21,483 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:16:21,483 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 01:16:30,048 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 01:16:30,218 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:16:37,787 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:16:37,903 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e21cb621-66f5-2741-882a-ac66c30c987c)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 01:16:38,177 INFO  [HomePage] Entered the userid 
+2017-01-13 01:16:38,206 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e21cb621-66f5-2741-882a-ac66c30c987c)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 01:16:38,407 INFO  [HomePage] Clicked on the next button 
+2017-01-13 01:16:41,417 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e21cb621-66f5-2741-882a-ac66c30c987c)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 01:16:41,528 INFO  [HomePage] Entered password 
+2017-01-13 01:16:41,544 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (e21cb621-66f5-2741-882a-ac66c30c987c)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 01:16:43,168 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 01:16:45,217 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:16:45,219 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 01:16:56,549 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@5b367418 is initialized 
+2017-01-13 01:17:00,237 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:17:09,370 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:20:03,287 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:20:12,914 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:20:35,651 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:26:00,370 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:26:05,651 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:26:05,779 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 01:26:05,909 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:26:08,220 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:26:08,310 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 01:28:39,398 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:31:11,359 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:34:51,672 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:36:07,496 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:37:01,467 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:37:40,577 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:39:27,261 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:43:12,294 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:44:06,344 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:44:06,522 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (352eafea-f7e7-e943-a3a9-1dbb73962cda)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 01:44:06,703 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 01:44:06,784 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (352eafea-f7e7-e943-a3a9-1dbb73962cda)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 01:44:31,359 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 01:44:34,391 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:44:44,427 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:45:02,656 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:46:32,481 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:47:26,857 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:47:43,408 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:47:43,463 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@20435c40 is initialized 
+2017-01-13 01:47:43,496 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:47:44,597 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (3c6baefa-9682-0541-ae3f-afe0344296a7)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 01:47:44,747 INFO  [HomePage] Entered the userid 
+2017-01-13 01:47:44,761 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (3c6baefa-9682-0541-ae3f-afe0344296a7)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 01:47:44,879 INFO  [HomePage] Clicked on the next button 
+2017-01-13 01:47:47,895 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (3c6baefa-9682-0541-ae3f-afe0344296a7)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 01:47:47,963 INFO  [HomePage] Entered password 
+2017-01-13 01:47:47,973 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (3c6baefa-9682-0541-ae3f-afe0344296a7)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 01:47:51,581 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 01:47:53,632 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:47:53,633 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 01:47:58,656 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@768fc0f2 is initialized 
+2017-01-13 01:48:52,517 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:49:06,559 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:49:06,609 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@4416d64f is initialized 
+2017-01-13 01:49:06,647 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:49:07,728 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2991fa84-f1bd-7c44-ab59-07073d565471)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 01:49:07,892 INFO  [HomePage] Entered the userid 
+2017-01-13 01:49:07,909 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2991fa84-f1bd-7c44-ab59-07073d565471)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 01:49:08,143 INFO  [HomePage] Clicked on the next button 
+2017-01-13 01:49:11,213 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2991fa84-f1bd-7c44-ab59-07073d565471)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 01:49:11,286 INFO  [HomePage] Entered password 
+2017-01-13 01:49:11,296 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2991fa84-f1bd-7c44-ab59-07073d565471)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 01:49:13,414 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 01:49:15,503 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:49:15,517 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 01:49:20,536 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@3e74829 is initialized 
+2017-01-13 01:51:41,888 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:51:58,714 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:51:58,942 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 01:51:59,105 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 01:51:59,280 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 01:51:59,480 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 01:52:02,491 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:52:04,904 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 01:52:04,974 INFO  [EbayProductPage] 79.99 
+2017-01-13 01:52:04,975 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 01:52:14,916 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:52:15,939 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 01:52:16,117 INFO  [HomePage] Entered the userid 
+2017-01-13 01:52:16,133 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 01:52:16,274 INFO  [HomePage] Clicked on the next button 
+2017-01-13 01:52:19,292 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 01:52:19,371 INFO  [HomePage] Entered password 
+2017-01-13 01:52:19,383 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (84b63532-f742-c849-9182-c7ca01230ec6)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 01:52:21,769 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 01:52:23,790 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 01:52:23,791 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 01:52:28,820 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7922d892 is initialized 
+2017-01-13 01:58:44,707 INFO  [BaseTest] Browser initializing 
+2017-01-13 01:59:52,732 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:01:22,104 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:01:34,199 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:01:35,285 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 02:01:35,542 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 02:01:35,640 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 02:01:35,911 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 02:01:38,953 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:01:39,454 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 02:01:39,706 INFO  [EbayProductPage] 79.99 
+2017-01-13 02:01:39,707 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 02:01:44,033 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:01:45,063 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:01:45,203 INFO  [HomePage] Entered the userid 
+2017-01-13 02:01:45,227 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:01:45,355 INFO  [HomePage] Clicked on the next button 
+2017-01-13 02:01:48,372 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:01:48,458 INFO  [HomePage] Entered password 
+2017-01-13 02:01:48,472 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bc444aaf-7b2f-a64c-a64e-2f1ab4277b59)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:01:49,684 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 02:01:51,729 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:01:51,742 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 02:03:29,743 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:03:49,800 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:03:49,943 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 02:03:50,087 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 02:03:50,550 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 02:03:50,768 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 02:03:53,782 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:03:55,576 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 02:03:55,708 INFO  [EbayProductPage] 79.99 
+2017-01-13 02:03:55,709 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 02:03:57,418 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:03:57,436 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:03:57,623 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:03:59,821 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:03:59,919 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:04:03,414 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:04:03,428 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 02:04:08,479 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7b8b43c7 is initialized 
+2017-01-13 02:04:09,008 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:04:09,022 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:04:09,269 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:04:11,497 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@4e423aa2 is initialized 
+2017-01-13 02:04:12,028 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:04:13,048 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:04:13,198 INFO  [HomePage] Entered the userid 
+2017-01-13 02:04:13,213 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:04:13,315 INFO  [HomePage] Clicked on the next button 
+2017-01-13 02:04:16,333 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:04:16,418 INFO  [HomePage] Entered password 
+2017-01-13 02:04:16,432 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (2b8a2261-8e67-9c45-9da8-0199de523660)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:04:17,455 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 02:04:19,461 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:04:19,461 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 02:04:24,482 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@768fc0f2 is initialized 
+2017-01-13 02:11:53,691 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:12:04,132 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:12:04,283 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 02:12:04,507 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 02:12:04,548 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 02:12:05,183 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 02:12:08,195 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:12:08,723 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 02:12:08,980 INFO  [EbayProductPage] 79.99 
+2017-01-13 02:12:08,981 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 02:12:11,220 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:12:11,238 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:12:11,403 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:12:13,585 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:12:13,718 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:12:17,361 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:12:17,363 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 02:12:22,492 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@3561c410 is initialized 
+2017-01-13 02:12:23,146 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:12:23,159 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:12:23,308 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:12:25,430 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@3f67593e is initialized 
+2017-01-13 02:12:26,012 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:12:27,028 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:12:27,165 INFO  [HomePage] Entered the userid 
+2017-01-13 02:12:27,180 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:12:27,283 INFO  [HomePage] Clicked on the next button 
+2017-01-13 02:12:30,302 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:12:30,397 INFO  [HomePage] Entered password 
+2017-01-13 02:12:30,412 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (bf70a3f1-e372-6841-85ac-29979ccde5a4)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:12:31,010 INFO  [HomePage] Clicked on the signin button 
+2017-01-13 02:12:33,041 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@f107c50 is initialized 
+2017-01-13 02:14:07,709 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:14:19,615 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:14:19,736 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (de600f51-aea4-2b42-8f62-86c40f150f2c)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 02:14:19,933 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 02:14:20,182 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (de600f51-aea4-2b42-8f62-86c40f150f2c)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 02:14:21,068 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 02:14:24,079 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:14:24,436 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7c214cc0 is initialized 
+2017-01-13 02:14:24,660 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:14:31,541 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 02:14:38,065 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:14:47,235 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:14:47,312 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5a469e4-c47a-e648-9ffe-10b3e6e35c8f)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:14:47,591 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5a469e4-c47a-e648-9ffe-10b3e6e35c8f)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:14:50,614 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5a469e4-c47a-e648-9ffe-10b3e6e35c8f)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:14:50,808 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (a5a469e4-c47a-e648-9ffe-10b3e6e35c8f)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:14:55,090 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:14:55,091 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 02:15:00,116 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:10,056 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:15:20,924 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:21,101 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (01623843-75c8-0e44-8e0f-c6ba999f65ce)] -> xpath: //div[@id='gh-ac-box2']/input] is initialized 
+2017-01-13 02:15:21,323 INFO  [EbayHomePage] Electric guitar is entered on the text box 
+2017-01-13 02:15:21,371 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (01623843-75c8-0e44-8e0f-c6ba999f65ce)] -> xpath: //td[@class='gh-td']/input] is initialized 
+2017-01-13 02:15:21,626 INFO  [EbayHomePage] Clicked on the search button 
+2017-01-13 02:15:24,649 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:25,484 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (01623843-75c8-0e44-8e0f-c6ba999f65ce)] -> xpath: .//*[@id='item5430ad03cd']/ul[1]/li[1]/span] is initialized 
+2017-01-13 02:15:26,004 INFO  [EbayProductPage] 79.99 
+2017-01-13 02:15:26,005 INFO  [EbayProductPage] The price of this product is $79.99 
+2017-01-13 02:15:26,323 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:15:33,871 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:33,929 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (137ff527-93f0-6c4a-946f-5053c0fc0d14)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:15:34,125 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (137ff527-93f0-6c4a-946f-5053c0fc0d14)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:15:36,291 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (137ff527-93f0-6c4a-946f-5053c0fc0d14)] -> xpath: .//*[@id='Passwd']] is initialized 
+2017-01-13 02:15:36,389 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (137ff527-93f0-6c4a-946f-5053c0fc0d14)] -> xpath: .//*[@id='signIn']] is initialized 
+2017-01-13 02:15:39,892 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:39,893 INFO  [GmailProfilePage] Elements initialized 
+2017-01-13 02:15:44,920 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@16eccb2e is initialized 
+2017-01-13 02:15:44,940 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:45,129 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 02:15:45,334 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:15:58,184 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:15:58,332 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (3976abb8-c09e-6743-ba0e-28bbbfe81b80)] -> xpath: .//*[@id='Email']] is initialized 
+2017-01-13 02:15:58,579 INFO  [MLBAUtils] [[FirefoxDriver: firefox on MAC (3976abb8-c09e-6743-ba0e-28bbbfe81b80)] -> xpath: .//*[@id='next']] is initialized 
+2017-01-13 02:16:00,895 INFO  [MLBAUtils] Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@401f7633 is initialized 
+2017-01-13 02:16:00,933 INFO  [MLBAUtils] Elements initialized 
+2017-01-13 02:16:01,144 INFO  [MLBAUtils] Took the screen shot 
+2017-01-13 02:16:01,469 INFO  [BaseTest] Browser initializing 
+2017-01-13 02:16:13,152 INFO  [MLBAUtils] Elements initialized 

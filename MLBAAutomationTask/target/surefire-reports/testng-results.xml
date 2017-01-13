@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="4" failed="0" total="4" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="1551" started-at="2017-01-13T14:55:45Z" finished-at="2017-01-13T14:55:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1551" started-at="2017-01-13T14:55:45Z" finished-at="2017-01-13T14:55:47Z">
+      <class name="com.mlba.test.SmokeTest">
+        <test-method status="FAIL" signature="openBroweser()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="openBroweser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:45Z" finished-at="2017-01-13T09:55:45Z">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[null value in entry: url=null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: null value in entry: url=null
+	at com.google.common.collect.CollectPreconditions.checkEntryNotNull(CollectPreconditions.java:33)
+	at com.google.common.collect.SingletonImmutableBiMap.<init>(SingletonImmutableBiMap.java:39)
+	at com.google.common.collect.ImmutableBiMap.of(ImmutableBiMap.java:49)
+	at com.google.common.collect.ImmutableMap.of(ImmutableMap.java:70)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:316)
+	at com.mlba.test.BaseTest.openBroweser(BaseTest.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:589)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroweser -->
+        <test-method status="SKIP" signature="ebayProduct()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="ebayProduct" duration-ms="1" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ebayProduct -->
+        <test-method status="SKIP" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="SKIP" signature="openBroweser()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="openBroweser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroweser -->
+        <test-method status="SKIP" signature="gmailInvalidPassLoginTest()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="gmailInvalidPassLoginTest" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailInvalidPassLoginTest -->
+        <test-method status="SKIP" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="SKIP" signature="openBroweser()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="openBroweser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroweser -->
+        <test-method status="SKIP" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="SKIP" signature="gmailInvalidUserLoginTest()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="gmailInvalidUserLoginTest" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailInvalidUserLoginTest -->
+        <test-method status="SKIP" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="SKIP" signature="gmailLoginTest()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="gmailLoginTest" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailLoginTest -->
+        <test-method status="SKIP" signature="openBroweser()[pri:0, instance:com.mlba.test.SmokeTest@15975490]" name="openBroweser" is-config="true" duration-ms="0" started-at="2017-01-13T09:55:47Z" finished-at="2017-01-13T09:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBroweser -->
+      </class> <!-- com.mlba.test.SmokeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

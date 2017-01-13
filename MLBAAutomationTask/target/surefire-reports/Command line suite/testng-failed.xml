@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test" preserve-order="false">
+    <classes>
+      <class name="com.mlba.test.BaseTest"/>
+      <class name="com.mlba.test.SmokeTest"/>
+    </classes>
+  </test> <!-- Command line test -->
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.mlba.test.SmokeTest">
+        <methods>
+          <include name="gmailLoginTest"/>
+          <include name="gmailInvalidPassLoginTest"/>
+          <include name="ebayProduct"/>
+          <include name="gmailInvalidUserLoginTest"/>
+          <include name="openBroweser"/>
+        </methods>
+      </class> <!-- com.mlba.test.SmokeTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
